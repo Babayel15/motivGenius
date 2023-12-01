@@ -1,0 +1,7 @@
+bac = input("Avez vous déja eu le bac  ?")
+serie = input("Precisez la serie :")
+dernierDiplome = input("Quel est votre dernier diplôme ?")
+formationActuelle = input('Précisez votre niveau et formation actuelle :')
+formationPostulee = input("Précisez l'intitulé de la formation dont vous postulez :")
+projetdEtude = input("Quel est votre projet d'étude ?")
+projetPro = input("Quel metier ciblez vous à la fin de votre projet d'études ?")
